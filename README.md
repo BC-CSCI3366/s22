@@ -13,7 +13,7 @@
 + Office Hours: TBA
 ---
 
-[Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Pervasives](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Pervasives.html) — [Lib](./resources/lib.md) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [OCaml.org](https://ocaml.org/) — [OPAM](https://opam.ocaml.org/) — [Dune](https://dune.build/) — [Coding in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/) — [Try OCaml](https://try.ocamlpro.com/) 
+[Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Lib](./resources/lib.md) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [OCaml.org](https://ocaml.org/) — [OPAM](https://opam.ocaml.org/) — [Dune](https://dune.build/) — [Coding in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/) — [Try OCaml](https://try.ocamlpro.com/) 
 
 ---
 
