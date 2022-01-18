@@ -1,6 +1,6 @@
 # CSCI 3366 Programming Languages
 
-### Spring 2021
+### Spring 2022
 
 ---
 
