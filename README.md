@@ -23,6 +23,12 @@
 | :-----------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
 | 1 |  1   | T 01/18/22 | Introduction and overview; course admin |
 |   |  2   | R 01/20/22 | Introduction to OCaml (basic types, functions, defining sum types) |
+| 2 |  3   | T 01/25/22 | Introduction to OCaml (continued) |
+|   |  4   | R 01/27/22 | Introduction to OCaml (continued) |
+| 3 |  5   | T 02/01/22 | Introduction to OCaml (continued) |
+|   |  6   | R 02/03/22 | Introduction to OCaml (continued) |
+| 4 |  7   | T 02/08/22 | Context Free Grammars |
+|   |  8   | R 02/10/22 | Recursive Descent Parsing |
 
 ---
 
