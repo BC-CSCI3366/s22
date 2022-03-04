@@ -7,10 +7,10 @@
 **Meets:** Tuesdays & Thursdays 1:30PM - 2:45PM
 
 **Instructor:** [Joseph Tassarotti](http://www.cs.bc.edu/~tassarot/)
-+ Office Hours: TBA
++ Office Hours: See Canvas
 
 **Teaching Assistant:**  Jason Tee and John Merrigan
-+ Office Hours: TBA
++ Office Hours: See Canvas
 ---
 
 [Stdlib](http://caml.inria.fr/pub/docs/manual-ocaml/stdlib.html) — [Lib](./resources/lib.md) — [Manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html) — [OCaml.org](https://ocaml.org/) — [OPAM](https://opam.ocaml.org/) — [Dune](https://dune.build/) — [Coding in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/) — [Try OCaml](https://try.ocamlpro.com/) 
@@ -29,6 +29,12 @@
 |   |  6   | R 02/03/22 | Introduction to OCaml (continued) |
 | 4 |  7   | T 02/08/22 | Context Free Grammars |
 |   |  8   | R 02/10/22 | Recursive Descent Parsing |
+| 5 |  9   | T 02/15/22 | Inference rules, proof systems |
+|   |  10  | R 02/17/22 | Operational semantics of Mercury |
+| 6 |  11  | T 02/22/22 | Let-binding, substitution semantics of Venus |
+|   |  12  | R 02/24/22 | Environment semantics for Venus |
+| 7 |  13  | T 03/01/22 | Type checking for Venus |
+|   |  14  | R 03/03/22 | Type inference for Venus |
 
 ---
 
