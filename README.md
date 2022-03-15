@@ -35,6 +35,7 @@
 |   |  12  | R 02/24/22 | Environment semantics for Venus |
 | 7 |  13  | T 03/01/22 | Type checking for Venus |
 |   |  14  | R 03/03/22 | Type inference for Venus |
+| 8 |  15  | T 03/15/22 | Type inference, Earth |
 
 ---
 
