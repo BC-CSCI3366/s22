@@ -1,0 +1,11 @@
+(module
+ (export "main" (func $main))
+ (func $test (result i32)
+  (i32.const 10)
+ )
+ (func $main (result i32)
+  (call $test)
+  (i32.const 3)
+  (i32.sub)
+ )
+)
